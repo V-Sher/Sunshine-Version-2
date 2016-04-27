@@ -1,1 +1,7 @@
-Loving this course!!!
+uses of fork, clone and commit
+
+to copy a repository from github onto github!! - fork
+
+to download a repository from github onto your local machine  - clone using the url
+
+after making changes to the file on your local machine, git add to local workdesk and then commit the changes. the changes will be saved on your local machine. to reflect changes on github as well, you need to push the changes onto github using "git push origin master"
