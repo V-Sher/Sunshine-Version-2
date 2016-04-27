@@ -1,1 +1,5 @@
-Loving this course!!!
+git add remote origin "abc@xyz.com" - this creates a name i.e. origin for the website
+
+git push origin master
+
+"push the commits in the local branch named master to the remote (repository) named origin"
